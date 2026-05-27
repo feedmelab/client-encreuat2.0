@@ -6,7 +6,9 @@
   "scripts": {
     "dev": "vite dev",
     "build": "vite build",
+    "build:node": "vite build --config vite.node.config.ts",
     "build:dev": "vite build --mode development",
+    "start:node": "node server-node.mjs",
     "preview": "vite preview",
     "lint": "eslint .",
     "format": "prettier --write ."
