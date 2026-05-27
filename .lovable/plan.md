@@ -1,4 +1,3 @@
-
 ## Goal
 
 Redesign your word-deduction game (description → guess the word, letter slots, timer, 2 players, 5 rounds, end summary) with a polished, modern visual layer. Keep all working React logic from your repo intact — only the presentation changes.
